@@ -1,0 +1,14 @@
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\bin\Debug\netstandard2.0\appBuscaCep.deps.json
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\bin\Debug\netstandard2.0\appBuscaCep.dll
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\bin\Debug\netstandard2.0\ref\appBuscaCep.dll
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\bin\Debug\netstandard2.0\appBuscaCep.pdb
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.csprojAssemblyReference.cache
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.AssemblyInfoInputs.cache
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.AssemblyInfo.cs
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.dll
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\ref\appBuscaCep.dll
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.pdb
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\appBuscaCep.csproj.CoreCompileInputs.cache
+C:\DEV\curso-xamarin-2020\projeto1_udemy\appBuscaCep\appBuscaCep\obj\Debug\netstandard2.0\XamlC.stamp

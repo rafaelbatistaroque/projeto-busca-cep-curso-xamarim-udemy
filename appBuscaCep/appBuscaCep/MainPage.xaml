@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="appBuscaCep.MainPage">
+
+    <StackLayout Padding="30" BackgroundColor="#e8bd43" Spacing="10">
+        <Image x:Name="imgLogo" Source="logo" Scale="0.8" AnchorY="-0.2" VerticalOptions="Start"/>
+        <Entry x:Name="txtCep" Placeholder="Digite o cep" Keyboard="Numeric" MaxLength="8" ClearButtonVisibility="WhileEditing"/>
+        <Button x:Name="btnBuscar" Text="Buscar" TextColor="White" BackgroundColor="#00416b"/>
+        <Label x:Name="lblResultado" FontSize="18"/>
+    </StackLayout>
+
+</ContentPage>
